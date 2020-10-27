@@ -1,0 +1,2 @@
+"nbCst" "nbGamma" "nbNtrl" "nbUnif" "nbLoci" "cstBool" "unifBool" "gammaBool" "ntrlBool"
+"1" 0 0 300 0 3e+07 NA NA NA TRUE
